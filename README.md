@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Your Parallel Encryption and Decryption
 
 ## Overview
@@ -47,3 +48,7 @@ To explore the implementations in each branch:
    ENCRYPT # after giving directory name, give ENCRYPT or DECRYPT to tell what to do
    ```
 
+=======
+# Parallel-File-Encryptor-Decryptor
+This project demonstrates the implementation of encryption and decryption mechanisms using parallel processing techniques in C++. By leveraging both multiprocessing and multithreading, the project aims to enhance the efficiency and performance of cryptographic operations.
+>>>>>>> 8251a05cc8727711fdb1dcd67ef03804a006c3a9
