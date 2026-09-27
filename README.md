@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Your Parallel Encryption and Decryption
 
 ## Overview
